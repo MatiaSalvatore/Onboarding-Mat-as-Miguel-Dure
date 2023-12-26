@@ -61,7 +61,7 @@ console.log(pet.age)
 console.log(pet.trained)
 
 //4.
-let fruits = ["bananas","apples","melons","oranges","strawberries"]
+let fruits = ["bananas","apples","melons","oranges","strawberries"];
 console.log(fruits)
 console.log(fruits[0])
 console.log(fruits[1])
@@ -70,7 +70,7 @@ console.log(fruits[3])
 console.log(fruits[4])
 //Difficulty level: High
 //1.
-let iAmAdult = prompt("Enter your age")
+let iAmAdult = Number(prompt("Enter your age"));
 console.log("I am an adult :", iAmAdult>=18)
 
 //2.
