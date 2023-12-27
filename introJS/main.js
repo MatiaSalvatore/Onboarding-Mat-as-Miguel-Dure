@@ -1,3 +1,4 @@
+console.log("Starting javascript..")
 //JS Basic Exercises
 //Difficulty Level: Low
 //1.

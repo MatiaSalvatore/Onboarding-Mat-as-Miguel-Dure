@@ -1,6 +1,7 @@
 //Conditionals Exercises
 
 //Difficulty Level: Low
+console.log("Difficulty Level: Low")
 //1.
 console.log("Ejercicio 1:")
 
